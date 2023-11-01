@@ -1,13 +1,13 @@
 # WELCOME TO MY WORLD 👋👋👋👋👋👋
 
 
-Hi 👋, I'm Truong Ngoc Lam!                                                                         ![Mô tả hình ảnh](https://media3.giphy.com/media/4pMX5rJ4PYAEM/giphy.gif)
+Hi 👋, I'm Truong Ngoc Lam!                                                                         
 
 Wannabe to better person...
 
 ❔ Checking how this thing README.md works.
 
-😍 I love playing CTFs
+😍 I love playing CTFs                                                                                        ![](https://media3.giphy.com/media/4pMX5rJ4PYAEM/giphy.gif)
 
 💤 Sometimes I write CTFs writeups
 
