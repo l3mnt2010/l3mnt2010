@@ -2,7 +2,7 @@
 
 |                            |                                             |
 |----------------------------|---------------------------------------------|
-| Hi 👋, I'm Truong Ngoc Lam!  | ![CTF](https://media3.giphy.com/media/4pMX5rJ4PYAEM/giphy.gif) |
+|# Hi 👋, I'm Truong Ngoc Lam !  | ![CTF](https://media3.giphy.com/media/4pMX5rJ4PYAEM/giphy.gif) |
 | Wannabe to better person... |                                             |
 | ❔ Checking how this thing README.md works. |                                       |
 | 😍 I love playing CTFs     |                                             |
