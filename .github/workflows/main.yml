@@ -1,0 +1,31 @@
+name: Workflow
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Configure Profile
+        run: |
+          cp README.md profile.md
+        shell: bash
+
+      - name: Commit Profile
+        run: |
+          git config user.name "l3m-h0c-r3d"
+          git config user.email "llamtruong365@gmail.com"
+          git add profile.md
+          git commit -m "Update profile"
+          git push
+        shell: bash
