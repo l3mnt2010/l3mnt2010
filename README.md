@@ -1,7 +1,8 @@
 # WELCOME TO MY WORLD 👋👋👋👋👋👋
 
 
-Hi 👋, I'm Truong Ngoc Lam!
+Hi 👋, I'm Truong Ngoc Lam!                                                                         ![Mô tả hình ảnh](https://media3.giphy.com/media/4pMX5rJ4PYAEM/giphy.gif)
+
 Wannabe to better person...
 
 ❔ Checking how this thing README.md works.
