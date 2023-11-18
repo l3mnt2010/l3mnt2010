@@ -6,7 +6,7 @@
 | Wannabe to better person... |                                             |
 | ❔ Checking how this thing README.md works. |                                       |
 | 😍 I love playing CTFs     | 
-| Backend && Frontend
+| ❔ Web Developer and Enjoy r3dt34m ^^
 | 💤 Sometimes I write CTFs writeups |                                      |
 | 😃 Interested in Cyber Security, Web development, and Mobile |    |
 | 👍 Looking to collaborate on any weird ideas xD |             |
