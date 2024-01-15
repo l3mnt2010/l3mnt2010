@@ -3,7 +3,7 @@
 |                            |                                             |
 |----------------------------|---------------------------------------------|
 |# Hi 👋, I'm Truong Ngoc Lam !  | ![CTF](https://media3.giphy.com/media/4pMX5rJ4PYAEM/giphy.gif) |
-| Wannabe to better person... |                                             |
+| Wannabe to better person... |    Member web of KCSC Club                                         |
 | ❔ Checking how this thing README.md works. |                                       |
 | 😍 I love playing CTFs     | 
 | ❔ Web Developer and Enjoy r3dt34m ^^
