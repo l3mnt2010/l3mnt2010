@@ -13,4 +13,4 @@
 | 🍵 Chai is <3              |                                             |
 | 🆗 Index starts with 1? xD  |                                             |
 | ❗ I write codes.           |                                             |
-| 👀 I'm a second-year student at KMA [Academy of Cryptography techniques (ACTVN)] | |
+| 👀 I'm a third-year student at KMA [Academy of Cryptography techniques (ACTVN)] | |
